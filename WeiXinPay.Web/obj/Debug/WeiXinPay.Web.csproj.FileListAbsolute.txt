@@ -1,0 +1,13 @@
+D:\syb\Project\WeiXinPay_ASP.NET\WeiXinPay.Web\bin\WeiXinPay.Web.dll
+D:\syb\Project\WeiXinPay_ASP.NET\WeiXinPay.Web\bin\WeiXinPay.Web.pdb
+D:\syb\Project\WeiXinPay_ASP.NET\WeiXinPay.Web\bin\Newtonsoft.Json.dll
+D:\syb\Project\WeiXinPay_ASP.NET\WeiXinPay.Web\bin\WeiXinPay.Lib.dll
+D:\syb\Project\WeiXinPay_ASP.NET\WeiXinPay.Web\bin\WeiXinPay.Lib.pdb
+D:\syb\Project\WeiXinPay_ASP.NET\WeiXinPay.Web\obj\Debug\WeiXinPay.Web.csprojResolveAssemblyReference.cache
+D:\syb\Project\WeiXinPay_ASP.NET\WeiXinPay.Web\obj\Debug\WeiXinPay.Web.dll
+D:\syb\Project\WeiXinPay_ASP.NET\WeiXinPay.Web\obj\Debug\WeiXinPay.Web.pdb
+G:\开发项目\WeiXinPay_ASP.NET\WeiXinPay.Web\bin\WeiXinPay.Web.dll
+G:\开发项目\WeiXinPay_ASP.NET\WeiXinPay.Web\bin\WeiXinPay.Web.pdb
+G:\开发项目\WeiXinPay_ASP.NET\WeiXinPay.Web\bin\Newtonsoft.Json.dll
+G:\开发项目\WeiXinPay_ASP.NET\WeiXinPay.Web\obj\Debug\WeiXinPay.Web.dll
+G:\开发项目\WeiXinPay_ASP.NET\WeiXinPay.Web\obj\Debug\WeiXinPay.Web.pdb
